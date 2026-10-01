@@ -23,8 +23,8 @@ const navigation = [
 const profiles = [
 	{ name: 'GitHub', handle: 'barnomoy', href: 'https://github.com/barnomoy', icon: Github },
 	{ name: 'Codeforces', handle: 'barnomoy', href: 'https://codeforces.com/profile/barnomoy', icon: Code2 },
-	{ name: 'LeetCode', handle: 'Profile link not provided', href: null, icon: Code2 },
-	{ name: 'CodeChef', handle: 'Profile link not provided', href: null, icon: Code2 },
+	{ name: 'LeetCode', handle: 'cPycTqjhV4', href: 'https://leetcode.com/u/cPycTqjhV4/', icon: Code2 },
+	{ name: 'CodeChef', handle: 'barnomoy', href: 'https://www.codechef.com/users/barnomoy', icon: Code2 },
 ];
 
 const skillGroups = [
