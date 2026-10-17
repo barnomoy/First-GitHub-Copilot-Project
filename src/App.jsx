@@ -28,7 +28,7 @@ const profiles = [
 ];
 
 const skillGroups = [
-	{ title: 'Programming', skills: ['C', 'C++'] },
+	{ title: 'Programming', skills: ['C', 'C++', 'JavaScript'] },
 	{ title: 'Web development', skills: ['HTML', 'CSS', 'JavaScript', 'React'] },
 	{ title: 'Core computer science', skills: ['Data structures', 'Algorithms', 'Problem solving'] },
 	{ title: 'Tools', skills: ['Git', 'GitHub', 'VS Code'] },
