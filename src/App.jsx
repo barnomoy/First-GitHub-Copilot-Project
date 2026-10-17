@@ -87,7 +87,7 @@ function App() {
 		document.documentElement.dataset.theme = theme;
 		try {
 			window.localStorage.setItem('portfolio-theme', theme);
-		} catch {}
+		} catch { }
 	}, [theme]);
 
 	useEffect(() => {
@@ -233,12 +233,12 @@ function App() {
 						</div>
 						<div className="project-details">
 							<p className="eyebrow"><span className="status-dot" /> Showcase opening soon</p>
-							<h3>Making room for<br />work worth sharing.</h3>
-							<p>No project details or repository links have been provided yet. This space is ready for real work as it takes shape.</p>
+							{/* <h3>Making room for<br />work worth sharing.</h3>
+							<p>No project details or repository links have been provided yet. This space is ready for real work as it takes shape.</p> */}
 							<div className="project-metadata">
 								<span>Project name <strong>To be added</strong></span>
 								<span>Technologies <strong>To be added</strong></span>
-								<span>Repository <strong>Not provided</strong></span>
+								<span>Repository <strong>To be added</strong></span>
 							</div>
 						</div>
 					</article>
