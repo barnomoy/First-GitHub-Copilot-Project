@@ -286,8 +286,8 @@ function App() {
 							<p className="contact-description">For opportunities, collaboration, or a good conversation about building things.</p>
 						</div>
 						<div className="contact-details">
-							<div className="contact-item"><span>Email</span><strong>Address not provided yet</strong></div>
-							<div className="contact-item"><span>LinkedIn</span><strong>Profile not provided yet</strong></div>
+							<div className="contact-item"><span>Email</span><strong>Not provided yet</strong></div>
+							<div className="contact-item"><span>LinkedIn</span><strong>Not provided yet</strong></div>
 							<a className="contact-github" href="https://github.com/barnomoy" target="_blank" rel="noreferrer"><Github size={17} aria-hidden="true" /> Find me on GitHub <ArrowUpRight size={15} aria-hidden="true" /></a>
 						</div>
 					</div>
